@@ -2,8 +2,8 @@
 I'm currently studying software engineering, and I use NixOS as my Development OS
 
 I want to learn:
-GO
-Vue.js
+ - GO
+ - Vue.js
 
 ### Tools
 <div align="center">
