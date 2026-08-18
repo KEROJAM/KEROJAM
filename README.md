@@ -1,9 +1,8 @@
 ## Hi there, I'm KEROJAM 👋
 I'm currently studying software engineering, and I use NixOS as my Development OS
 
-I want to learn:
- - GO
- - Vue.js
+I am learning:
+ - Rust
 
 ### Tools
 <div align="center">
